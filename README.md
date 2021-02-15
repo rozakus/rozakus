@@ -3,6 +3,7 @@
 My projects :construction_worker: 
 | Portfolio | Tech Stack|Repo |
 | --------- | -----------------  | ----------------- |
+| [Kanban](https://kanban-by-rozakus.web.app) | Vue 2, Login Using Google | [check repo](https://github.com/rozakus/kanban-client) |
 | [Movie Search Web App](https://movie-search-by-rozakus.web.app/) | React, Redux, Material UI | [check repo](https://github.com/rozakus/react-challenge) |
 | [Local Shoes E-Commerce](https://sepatu-lokal-by-rozakus.web.app/) | Vue 2, Bootstrap, PostgreSQL, Sequelize, Express  | [check repo](https://github.com/rozakus/ecommerce-client-customer) |
 | [Sudoku Mobile Game](https://expo.io/@rozakus/projects/sugoku) | React Native, React Native Elements | [check repo](https://github.com/rozakus/sugoku) |
