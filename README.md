@@ -1,15 +1,15 @@
 ### Hi 👋
 
-![rozakus's github stats](https://github-readme-stats.vercel.app/api?username=rozakus&theme=react&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/rozakus/github-readme-stats)
-
 My projects :construction_worker: 
 | Portfolio | Tech Stack | Fitur |Repo |
 | --------- | ----------------- |----------------- | ----------------- |
 | [Movie Search Web App](https://movie-search-by-rozakus.web.app/) | React, Redux, Material UI  | Debouncing | [check repo](https://github.com/rozakus/react-challenge) |
 | [Sudoku Mobile Game](https://expo.io/@rozakus/projects/sugoku) | React Native, React Native Elements | test | [check repo](https://github.com/rozakus/sugoku) |
 
-I currently using
+I currently using : 
+
+![rozakus's github stats](https://github-readme-stats.vercel.app/api?username=rozakus&theme=react&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/rozakus/github-readme-stats)
 
 <!--
 **rozakus/rozakus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
