@@ -1,6 +1,9 @@
 ### Hi 👋
 
-masih belajar kak
+My projects :construction_worker: 
+| Project | Tech Stack             | Repo             |
+| ------ | ----------------- |----------------- |
+| [Sudoku Mobile Game](https://expo.io/@rozakus/projects/sugoku) | React Native, React Native Elements | [check repo](https://github.com/rozakus/sugoku) |
 
 <!--
 **rozakus/rozakus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
