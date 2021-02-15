@@ -1,7 +1,6 @@
 ### Hi 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-![rozakus's github stats](https://github-readme-stats.vercel.app/api?username=rozakus)
+![rozakus's github stats](https://github-readme-stats.vercel.app/api?username=rozakus&theme=react&show_icons=true)
 
 My projects :construction_worker: 
 | Portfolio | Tech Stack | Fitur |Repo |
