@@ -3,6 +3,7 @@
 My projects :construction_worker: 
 | Project | Tech Stack             | Repo             |
 | ------ | ----------------- |----------------- |
+| [Movie Search App](https://movie-search-by-rozakus.web.app/) | React, Redux, Material UI  | [check repo](https://github.com/rozakus/react-challenge) |
 | [Sudoku Mobile Game](https://expo.io/@rozakus/projects/sugoku) | React Native, React Native Elements | [check repo](https://github.com/rozakus/sugoku) |
 
 <!--
