@@ -4,6 +4,7 @@ My projects :construction_worker:
 | Portfolio | Tech Stack | Fitur |Repo |
 | --------- | ----------------- |----------------- | ----------------- |
 | [Movie Search Web App](https://movie-search-by-rozakus.web.app/) | React, Redux, Material UI  | Debouncing | [check repo](https://github.com/rozakus/react-challenge) |
+| [Local Shoes E-Commerce](https://sepatu-lokal-by-rozakus.web.app/) | Vue 2, Bootstrap  | Add to chart, more feature soon | [check repo](https://github.com/rozakus/ecommerce-client-customer) |
 | [Sudoku Mobile Game](https://expo.io/@rozakus/projects/sugoku) | React Native, React Native Elements | Leaderboard, Time Solving | [check repo](https://github.com/rozakus/sugoku) |
 
 I currently using : 
