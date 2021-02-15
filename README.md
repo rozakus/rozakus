@@ -1,12 +1,12 @@
 ### Hi 👋
 
-- My projects :construction_worker: 
+My projects :construction_worker: 
 | Portfolio | Tech Stack | Fitur |Repo |
 | --------- | ----------------- |----------------- | ----------------- |
 | [Movie Search Web App](https://movie-search-by-rozakus.web.app/) | React, Redux, Material UI  | Debouncing | [check repo](https://github.com/rozakus/react-challenge) |
-| [Sudoku Mobile Game](https://expo.io/@rozakus/projects/sugoku) | React Native, React Native Elements |  | [check repo](https://github.com/rozakus/sugoku) |
+| [Sudoku Mobile Game](https://expo.io/@rozakus/projects/sugoku) | React Native, React Native Elements | test | [check repo](https://github.com/rozakus/sugoku) |
 
-- I currently using
+I currently using
 
 <!--
 **rozakus/rozakus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
