@@ -1,7 +1,6 @@
 ### Hi 👋
 
-My projects :construction_worker: 
-| Portfolio | Tech Stack|Repo |
+| Portfolio :construction_worker:  | Tech Stack|Repo |
 | --------- | -----------------  | ----------------- |
 | [Movie Search Web App](https://movie-search-by-rozakus.web.app/) | React, Redux, Material UI | [repo](https://github.com/rozakus/react-challenge) |
 | [Local Shoes E-Commerce](https://sepatu-lokal-by-rozakus.web.app/) | Vue 2, PostgreSQL, Sequelize, Express  | [repo](https://github.com/rozakus/ecommerce-client-customer) |
