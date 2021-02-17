@@ -8,8 +8,6 @@
 | [Sudoku Mobile Game](https://expo.io/@rozakus/projects/sugoku) | React Native, React Native Elements | [repo](https://github.com/rozakus/sugoku) |
 | [Suit Web App Game](https://gunting-batu-kertas-88771.web.app/#/login) | Vue 2, Socket.IO | [repo](https://github.com/SUIT-Jepang/client) |
 
-I currently using : 
-
 ![rozakus's github stats](https://github-readme-stats.vercel.app/api?username=rozakus&theme=react&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=react)](https://github.com/rozakus/github-readme-stats)
 
