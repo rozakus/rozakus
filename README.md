@@ -2,7 +2,7 @@
 
 | Portfolio :construction_worker:  | Tech Stack|Repo |
 | --------- | -----------------  | ----------------- |
-| [Movie Search Web App](https://movie-search-by-rozakus.web.app/) | React, Redux, Material UI | [repo](https://github.com/rozakus/react-challenge) |
+| [Movie Search Web App](https://movie-search-by-rozakus.web.app/) | <code><img width="25%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code> <code><img width="25%" src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/redux.svg"></code> | [repo](https://github.com/rozakus/react-challenge) |
 | [Local Shoes E-Commerce](https://sepatu-lokal-by-rozakus.web.app/) | <code><img width="25%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code> <code><img width="25%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code> | [repo](https://github.com/rozakus/ecommerce-client-customer) |
 | [Kanban](https://kanban-by-rozakus.web.app) | Vue 2, Google Login | [repo](https://github.com/rozakus/kanban-client) |
 | [Sudoku Mobile Game](https://expo.io/@rozakus/projects/sugoku) | React Native, React Native Elements | [repo](https://github.com/rozakus/sugoku) |
