@@ -3,10 +3,10 @@
 | Portfolio :construction_worker:  | Tech Stack|Repo |
 | --------- | -----------------  | ----------------- |
 | [Movie Search Web App](https://movie-search-by-rozakus.web.app/) | <code><img width="25%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code> <code><img width="25%" src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/redux.svg"></code> | [repo](https://github.com/rozakus/react-challenge) |
-| [Local Shoes E-Commerce](https://sepatu-lokal-by-rozakus.web.app/) | <code><img width="25%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code> <code><img width="25%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code> | [repo](https://github.com/rozakus/ecommerce-client-customer) |
+| [Local Shoes E-Commerce](https://sepatu-lokal-by-rozakus.web.app/) | <code><img width="25%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code> <code><img width="25%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code> | [repo](https://github.com/rozakus/ecommerce-client-customer) |
 | [Kanban](https://kanban-by-rozakus.web.app) | <code><img width="25%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code> | [repo](https://github.com/rozakus/kanban-client) |
 | [Sudoku Mobile Game](https://expo.io/@rozakus/projects/sugoku) | React Native, React Native Elements | [repo](https://github.com/rozakus/sugoku) |
-| [Suit Web App Game](https://gunting-batu-kertas-88771.web.app/#/login) | <code><img width="25%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code> Socket.IO | [repo](https://github.com/SUIT-Jepang/client) |
+| [Suit Web App Game](https://gunting-batu-kertas-88771.web.app/#/login) | <code><img width="25%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code> | [repo](https://github.com/SUIT-Jepang/client) |
 
 ![rozakus's github stats](https://github-readme-stats.vercel.app/api?username=rozakus&theme=react&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=react)](https://github.com/rozakus/github-readme-stats)
